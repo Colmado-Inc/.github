@@ -1,40 +1,32 @@
-# GitHat Inc.
+# Colmado Inc.
 
-Welcome to **GitHat Inc.**—the umbrella organization fostering innovation across multiple technology domains. At GitHat, we are committed to advancing technology through our specialized ventures in AI, blockchain, and digital marketplaces. Our diverse portfolio of companies reflects our dedication to driving excellence and pushing the boundaries of what’s possible.
+Welcome to **Colmado Inc.**, your premier destination for both digital and physical marketplace experiences. As a subsidiary of **GitHat Inc.**, Colmado combines cutting-edge technology with a curated selection of products and services to deliver a unique and seamless shopping experience.
 
 ## About Us
 
-**GitHat Inc.** serves as the overarching entity for several groundbreaking initiatives. We operate with a focus on delivering cutting-edge solutions and leveraging the strengths of our specialized subsidiaries:
+**Colmado Inc.** is dedicated to creating a dynamic marketplace that spans both the digital and physical realms. Our platform is designed to offer an exceptional variety of products and services, ranging from NFTs to everyday consumer goods. We integrate innovative technology to ensure a modern, efficient, and engaging shopping experience for all our users.
 
-- **SebasTN Inc.:** Our AI powerhouse, specializing in developing sophisticated artificial intelligence solutions. From machine learning and deep learning to natural language processing, SebasTN is dedicated to pushing the frontiers of AI technology.
-  
-- **NFTeria Inc.:** Our blockchain expertise hub, focusing on the development and management of NFTs and blockchain-based systems. NFTeria brings deep knowledge and innovation to the blockchain space, enhancing the utility and value of digital assets.
+### Our Marketplace
 
-- **Colmado Inc.:** A branded marketplace offering a curated selection of products and services. Colmado combines modern e-commerce solutions with a strong brand presence, providing a seamless shopping experience.
+- **NFT Marketplace:** Explore a diverse range of NFTs on our platform. We provide a robust and secure environment for buying, selling, and trading digital assets, including art, collectibles, and virtual goods. Our marketplace is designed to support various blockchain standards, ensuring compatibility and flexibility.
 
-## Our Initiatives
+- **General Marketplace:** Discover a wide selection of physical products and services. From electronics and fashion to home goods and specialty items, our general marketplace offers a comprehensive range of categories to meet your needs. We focus on providing high-quality products and a user-friendly shopping experience.
 
-At GitHat, we are dedicated to several key initiatives that reflect our commitment to technology and innovation:
+## Features & Benefits
 
-- **Artificial Intelligence:** Through SebasTN Inc., we provide advanced AI solutions, including machine learning models, deep neural networks, and NLP tools. Our goal is to enhance decision-making and automate processes across various industries.
+- **Seamless Integration:** Enjoy a unified shopping experience with access to both NFT and physical product marketplaces. Our platform is designed to provide a cohesive experience for all types of transactions.
 
-- **Blockchain Technology:** With NFTeria Inc., we explore and develop blockchain technologies, including NFTs and smart contracts. We aim to lead in creating decentralized solutions that revolutionize digital asset management.
+- **Enhanced Security:** Benefit from advanced security measures that protect your transactions and personal information. We utilize the latest technology to ensure a safe and secure shopping environment.
 
-- **Digital Marketplaces:** Colmado Inc. focuses on creating a branded marketplace that offers a unique and user-friendly shopping experience. We integrate innovative technologies to ensure a modern and efficient e-commerce platform.
+- **Curated Selections:** Explore a carefully curated selection of products and NFTs, ensuring high quality and relevance. Our team is dedicated to offering valuable and desirable items for our users.
 
-## Projects & Collaborations
+- **Innovative Technology:** Leverage the power of cutting-edge technology to enhance your shopping experience. We continuously integrate new features and improvements to stay at the forefront of the marketplace industry.
 
-Explore our key projects and collaborations across our subsidiaries:
+## Get In Touch
 
-- **SebasTN Inc. Projects:** Includes AI-driven analytics platforms, NLP tools, and machine learning solutions.
-- **NFTeria Inc. Projects:** Encompasses NFT platforms, blockchain integration, and decentralized applications.
-- **Colmado Inc. Initiatives:** Features a range of e-commerce solutions and branded product offerings.
-
-## Connect With Us
-
-For more information about GitHat Inc. and our subsidiaries, or to explore partnership opportunities, please visit our website or contact us at [contact@githat.io](mailto:contact@githat.io).
+For more information about Colmado Inc., to explore our marketplace offerings, or to inquire about partnership opportunities, please visit our website or contact us at [contact@colmado.io](mailto:contact@colmado.io).
 
 ---
 
-**GitHat Inc.** is at the forefront of technological innovation, driving progress through our specialized ventures. Discover how our companies are shaping the future of technology.
+**Colmado Inc.**, part of the GitHat Inc. family, is committed to delivering excellence in both digital and physical marketplaces. Discover how we’re transforming the shopping experience and providing unique opportunities for buyers and sellers alike.
 
