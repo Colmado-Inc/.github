@@ -31,5 +31,7 @@ The neighborhood-commerce app on the [GitHat](https://githat.io) platform — so
 
 ## Contact
 
+<!-- IDENTITY:contact -->
 Security: [security@colmado.click](mailto:security@colmado.click)
 Support: [hello@colmado.click](mailto:hello@colmado.click)
+<!-- /IDENTITY:contact -->
