@@ -32,6 +32,9 @@ The neighborhood-commerce app on the [GitHat](https://githat.io) platform — so
 ## Contact
 
 <!-- IDENTITY:contact -->
-Security: [security@colmado.click](mailto:security@colmado.click)
-Support: [hello@colmado.click](mailto:hello@colmado.click)
+- **Email:** [rensley@githat.io](mailto:rensley@githat.io)
+- **X:** [@VyperPilledDev](https://x.com/VyperPilledDev)
+- **LinkedIn:** [linkedin.com/in/rensley-2-nfty](https://linkedin.com/in/rensley-2-nfty)
+- **GitHub:** [@doble196](https://github.com/doble196)
+- **Location:** New York, NY
 <!-- /IDENTITY:contact -->
