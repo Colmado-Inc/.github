@@ -4,7 +4,7 @@
 
 **The neighborhood shop, online.**
 
-Local commerce platform — pickup, delivery, and in-store POS in one place.
+Local commerce — pickup, delivery, and in-store, in one place.
 
 [**🌐 colmado.click**](https://colmado.click)&nbsp;&nbsp;·&nbsp;&nbsp;[**🏠 GitHat platform**](https://githat.io)
 
@@ -14,20 +14,20 @@ Local commerce platform — pickup, delivery, and in-store POS in one place.
 
 ## What Colmado is
 
-Colmado is the neighborhood-commerce app on the [GitHat](https://githat.io) platform — built so a corner store can list inventory, take orders, accept pickup or delivery, and run an in-store POS, without piecing together 6 different SaaS tools.
+The neighborhood-commerce app on the [GitHat](https://githat.io) platform — so a corner store can list inventory, take orders, accept pickup or delivery, and run an in-store register without piecing together six different tools.
 
 - **Storefront** with product catalog, photos, hours
 - **Orders** for pickup, delivery, or in-store
-- **POS** integration via the same surface
-- **Payments** by [Sebastn](https://github.com/SebasTN-Rhys) (Stripe Connect Express)
+- **Register** integration via the same surface
+- **Payments** by the fleet's [payments rail](https://github.com/SebasTN-Rhys)
 - **Auth** by [GitHat](https://github.com/GitHat-IO)
 
 ## Security
 
-- ✅ Verified domain (`colmado.click`, `www.colmado.click`)
-- ✅ AWS-native: Route 53 → CloudFront (ACM cert) → EC2 (Caddy → Node)
+- ✅ Verified domains (`colmado.click`, `www.colmado.click`)
+- ✅ Cloud-native edge — managed certs, single-CA lockdown
 - ✅ Same-origin auth proxy + httpOnly cookies
-- ✅ CAA records, signed commits
+- ✅ Signed commits
 
 ## Contact
 
