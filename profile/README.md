@@ -32,7 +32,7 @@ The neighborhood-commerce app on the [GitHat](https://githat.io) platform — so
 ## Contact
 
 <!-- IDENTITY:contact -->
-- **Email:** [rensley@githat.io](mailto:rensley@githat.io)
+- **Email:** [rensley@nfteria.cc](mailto:rensley@nfteria.cc)
 - **X:** [@VyperPilledDev](https://x.com/VyperPilledDev)
 - **GitHub:** [@doble196](https://github.com/doble196)
 - **Location:** New York, NY
